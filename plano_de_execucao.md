@@ -8,6 +8,7 @@ Este arquivo documenta as etapas para aprimorar o gerador de jogos da Lotofácil
 - [x] Criar um header unificado para a aplicação.
 - [x] Remover o ícone de "magia" (🔮).
 - [x] Unificar o estilo da aplicação com base no `auxiliar.html`.
+- [x] Adicionar o link para "Super Sete" no header.
 - [ ] Garantir que o arquivo seja lido corretamente e que o jogo seja gerado com base nos dados do arquivo especificado.
 - [ ] Lidar com possíveis erros, como o arquivo não ser encontrado.
 
